@@ -1,0 +1,44 @@
+html {
+  background-color: #BBBEBF;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+table {
+  border: 2px solid #FFFF46;
+}
+
+td {
+  border-bottom: 1px solid #FFFF46;
+}
+
+tr:hover {
+  background-color: white;
+}
+
+th {
+  background-color: #595A5E;
+  color: white;
+}
+
+span {
+    font-family:'Courier New', Courier, monospace;
+}
